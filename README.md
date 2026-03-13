@@ -5,7 +5,7 @@ Frontend / Full Stack Developer | Vue.js • Angular • PHP • Databases
 </h3>
 
 <p align="center">
-Software developer with 3+ years of experience building real-world business systems, ERP platforms, dashboards, and mobile applications.
+Software developer with 4+ years of experience building real-world business systems, ERP platforms, dashboards, and mobile applications.
 </p>
 
 ---
